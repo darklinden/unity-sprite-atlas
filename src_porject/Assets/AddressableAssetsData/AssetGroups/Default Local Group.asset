@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 79c585dc5c69f44a69e124511d073bf0
+  m_SerializeEntries:
+  - m_GUID: aa2681090cc0d49c1bfd809c211374d8
+    m_Address: Assets/AddrFiles/Sprites/Icons.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - icon
+  - m_GUID: 1470d7a87607e4de68631942e400c1f9
+    m_Address: Assets/AddrFiles/Sprites/Icons
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - icon
+  - m_GUID: 7c5685eab35e1428786b0c64ebe665e1
+    m_Address: Assets/AddrFiles/wtf-icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b44a7baad39ab4e14955db1e9fdb11a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3ff1c3896d1a14272ac2a335379585eb, type: 2}
+    - {fileID: 11400000, guid: 9dcc21c45402b4832a07f61c4d7c3810, type: 2}
